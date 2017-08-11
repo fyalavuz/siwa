@@ -1,0 +1,29 @@
+{
+  "name": "siwa",
+  "version": "0.0.1",
+  "description": "linux system info web api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fyalavuz/siwa.git"
+  },
+  "keywords": [
+    "linux",
+    "system",
+    "info",
+    "web",
+    "api"
+  ],
+  "author": "Firat Yalavuz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fyalavuz/siwa/issues"
+  },
+  "homepage": "https://github.com/fyalavuz/siwa#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
