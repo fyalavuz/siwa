@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/fyalavuz/siwa#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "os-utils": "0.0.14"
   }
 }
